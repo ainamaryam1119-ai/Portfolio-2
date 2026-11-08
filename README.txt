@@ -1,19 +1,17 @@
-AINA LIAQAT — AI ENGINEER PORTFOLIO
+AINA LIAQAT - PORTFOLIO
 
 FILES
-- index.html: page content and structure
-- style.css: responsive visual design
-- script.js: mobile navigation and current footer year
+- certificate-ai-hackathon.jpg : sample certificate image (upload it with the other files)
+- index.html : page content and structure
+- style.css  : theme (light and dark), layout, responsive rules
+- script.js  : skills, certificates, theme switch, animations (edit the lists at the top)
 
 PREVIEW
-Open index.html in a modern browser. You can also upload the three website files
-to GitHub Pages, Netlify, or another static website host.
+Open index.html in a browser, or upload all 3 website files to GitHub Pages.
 
 BEFORE PUBLISHING
-1. Replace your.email@example.com with your real professional email.
-2. Replace the LinkedIn and GitHub homepage links with your profile URLs.
-3. Replace the sample project concepts with projects you have actually completed.
-4. Add real project screenshots, demos, and measurable results where available.
-
-The site uses Google Fonts over the internet. It remains readable if the fonts
-cannot be loaded, using system sans-serif fallbacks.
+1. Replace your.email@example.com in index.html with your real email.
+2. Replace the LinkedIn and GitHub links with your profile URLs.
+3. In script.js, replace the SAMPLE certificates with your real ones, then set SAMPLE_BADGE = false.
+4. Adjust skill levels in script.js so they match where you honestly are.
+5. Add repo links and screenshots to the Projects section as you finish work.
